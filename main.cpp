@@ -24,7 +24,6 @@ ProcMem proM;
 DWORD Client;
 
 int main(); 
-void functions();
 void GlowEsp();
 void Stealth();
 
